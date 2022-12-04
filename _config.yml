@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eva Rubínová's Lab site"
+title                    : "Eva Rubínová's Lab Site"
 title_separator          : "-"
 name                     : &name "Eva Rubínová"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Eva Rubínová, Ph.D."
   avatar           : "eva-1.jpg"
   bio              : "Lecturer (Assistant Professor), School of Psychology, University of Aberdeen, Scotland"
-  location         : "Aberdeen, Scotland"
+  location         : "Aberdeen"
   employer         : #"https://www.abdn.ac.uk/people/eva.rubinova"
   pubmed           :
   googlescholar    : "https://scholar.google.cz/citations?user=KdVd-pAAAAAJ&hl=en"

@@ -14,11 +14,11 @@ I study basic cognitive processes that impact memory-based decisions, situationa
 
 To address basic and applied eyewitness memory questions, I use experimental methodology to investigate the impact of specific manipulations and differences between procedures. I also use observational methodology to study associations within autobiographical memory that may help us validate experimental findings or open new avenues for investigation.
 
-The core values of my lab include diversity, transparency, and open discussion, in addition to scholarship.
+The core values of my lab include diversity, transparency, and openness, in addition to scholarship.
 
 Lab Members
-======
-**PS4019 Psychology Thesis**  
+------
+**PS4019 Psychology Theses**  
 Eve Dixon  
 Abbie Sutherland  
 Didem Yardakul
@@ -32,3 +32,5 @@ Tia Blackall
 
 **Alumnus**  
 Eliška Dufková, currently a Ph.D. student at Masaryk University, CZ 
+
+**Get in touch if you would like to join the lab!**
