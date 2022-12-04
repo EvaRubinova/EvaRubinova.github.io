@@ -14,7 +14,7 @@ I study basic cognitive processes that impact memory-based decisions, situationa
 
 To address basic and applied eyewitness memory questions, I use experimental methodology to investigate the impact of specific manipulations and differences between procedures. I also use observational methodology to study associations within autobiographical memory that may validate experimental findings and open new avenues for investigation.
 
-The core values of my lab include diversity, transparency, and openness, in addition to scholarship.
+The core values of my lab include diversity, transparency, and openness, in addition to scholarship. My Open Science Framework page can be found under https://osf.io/v3p2k/.
 
 Lab Members
 ------
