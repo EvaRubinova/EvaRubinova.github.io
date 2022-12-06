@@ -29,6 +29,6 @@ Marie Bandet
 Tia Blackall 
 
 **Alumnus**  
-Eliška Dufková, currently a Ph.D. student at Masaryk University, CZ 
+Eliška Dufková, M.Sc., currently a Ph.D. student at Masaryk University, CZ 
 
 **Get in touch if you would like to join the lab!**
