@@ -29,8 +29,8 @@ Marie Bandet
 Tia Blackall
 
 **Volunteer Interns**  
-Elyshia Mistry 
-Nadya Mladenova   
+Elyshia Mistry  
+Nadya Mladenova  
 Aida Rincon Chong
 
 **Alumnus**  
